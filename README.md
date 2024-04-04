@@ -1,4 +1,4 @@
-# Name : surya sk
+# Name : SURYA SK
 # Reg no : 212222100052
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
